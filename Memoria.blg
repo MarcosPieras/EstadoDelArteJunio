@@ -1,0 +1,17 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Memoria.aux
+The style file: plain.bst
+Database file #1: mybib.bib
+I was expecting a `,' or a `}'---line 160 of file mybib.bib
+ :   
+ :   year={2012},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 175 of file mybib.bib
+ : @article{tum
+ :             ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in future
+Warning--can't use both author and editor fields in lsdslam
+Warning--empty journal in MurArtal
+Warning--empty year in tum
+(There were 2 error messages)

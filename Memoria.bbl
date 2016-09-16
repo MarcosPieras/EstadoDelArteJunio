@@ -1,0 +1,206 @@
+\begin{thebibliography}{10}
+
+\bibitem{churchill}
+Winston Churchill and Paul Newman.
+\newblock Experience-based navigation for long-term localisation.
+\newblock {\em The International Journal of Robotics Research},
+  32(14):1645--1661, 2013.
+
+\bibitem{inversa}
+Javier Civera, Andrew~J Davison, and JM~Martinez Montiel.
+\newblock Inverse depth parametrization for monocular slam.
+\newblock {\em Robotics, IEEE Transactions on}, 24(5):932--945, 2008.
+
+\bibitem{future}
+International conference on~computer vision.
+\newblock The future of real-time slam.
+\newblock 2015.
+
+\bibitem{tumMulti}
+Dr.~Daniel Cremers.
+\newblock Multiple view geometry.
+\newblock \url{http://vision.in.tum.de/teaching/ss2016/mvg2016}, 2013.
+
+\bibitem{2002simultaneous}
+Andrew~J Davison and David~W Murray.
+\newblock Simultaneous localization and map-building using active vision.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 24(7):865--880, 2002.
+
+\bibitem{monoslam}
+Andrew~J Davison, Ian~D Reid, Nicholas~D Molton, and Olivier Stasse.
+\newblock Monoslam: Real-time single camera slam.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 29(6):1052--1067, 2007.
+
+\bibitem{slamTutorial}
+H.~Durrant-Whyte and T.~Bailey.
+\newblock Simultaneous localization and mapping: part i.
+\newblock {\em IEEE Robotics Automation Magazine}, 13(2):99--110, June 2006.
+
+\bibitem{lsd7}
+F.~Endres, J.~Hess, N.~Engelhard, J.~Sturm, D.~Cremers, and W.~Burgard.
+\newblock An evaluation of the rgb-d slam system.
+\newblock In {\em Robotics and Automation (ICRA), 2012 IEEE International
+  Conference on}, pages 1691--1696, May 2012.
+
+\bibitem{lsd9}
+J.~Engel, J.~Sturm, and D.~Cremers.
+\newblock Semi-dense visual odometry for a monocular camera.
+\newblock In {\em 2013 IEEE International Conference on Computer Vision}, pages
+  1449--1456, Dec 2013.
+
+\bibitem{lsdslam}
+Jakob Engel, Thomas Sch{\"o}ps, and Daniel Cremers.
+\newblock {\em Computer Vision -- ECCV 2014: 13th European Conference, Zurich,
+  Switzerland, September 6-12, 2014, Proceedings, Part II}, chapter LSD-SLAM:
+  Large-Scale Direct Monocular SLAM, pages 834--849.
+\newblock Springer International Publishing, Cham, 2014.
+
+\bibitem{forster}
+Christian Forster, Simon Lynen, Laurent Kneip, and Davide Scaramuzza.
+\newblock Collaborative monocular slam with multiple micro aerial vehicles.
+\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems}, 2013.
+
+\bibitem{svo}
+Christian Forster, Matia Pizzoli, and Davide Scaramuzza.
+\newblock Svo: Fast semi-direct monocular visual odometry.
+\newblock In {\em Robotics and Automation (ICRA), 2014 IEEE International
+  Conference on}, pages 15--22. IEEE, 2014.
+
+\bibitem{p3p}
+Xiao-Shan Gao, Xiao-Rong Hou, Jianliang Tang, and Hang-Fei Cheng.
+\newblock Complete solution classification for the perspective-three-point
+  problem.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 25(8):930--943, 2003.
+
+\bibitem{hahnel}
+D.~Hahnel, W.~Burgard, D.~Fox, and S.~Thrun.
+\newblock An efficient fastslam algorithm for generating maps of large-scale
+  cyclic environments from raw laser range measurements.
+\newblock In {\em Intelligent Robots and Systems, 2003. (IROS 2003).
+  Proceedings. 2003 IEEE/RSJ International Conference on}, volume~1, pages
+  206--211 vol.1, 2003.
+
+\bibitem{Harris}
+C~G Harris and J~M Pike.
+\newblock 3d positional integration from image sequences.
+\newblock In {\em In Proc. Alvey Vision Conference, Cambridge.England}, 1987.
+
+\bibitem{multiple}
+Richard Hartley and Andrew Zisserman.
+\newblock {\em Multiple view geometry in computer vision}.
+\newblock Cambridge university press, 2003.
+
+\bibitem{irani}
+M.~Irani and P.~Anandan.
+\newblock All about direct methods, 1999.
+
+\bibitem{kendall}
+Alex Kendall, Matthew Grimes, and Roberto Cipolla.
+\newblock Convolutional networks for real-time 6-dof camera relocalization.
+\newblock {\em CoRR}, abs/1505.07427, 2015.
+
+\bibitem{lsd14}
+C.~Kerl, J.~Sturm, and D.~Cremers.
+\newblock Dense visual slam for rgb-d cameras.
+\newblock In {\em Proc. of the Int. Conf. on Intelligent Robot Systems (IROS)},
+  2013.
+
+\bibitem{PTAM}
+Georg Klein and David Murray.
+\newblock Parallel tracking and mapping for small ar workspaces.
+\newblock In {\em Mixed and Augmented Reality, 2007. ISMAR 2007. 6th IEEE and
+  ACM International Symposium on}, pages 225--234. IEEE, 2007.
+
+\bibitem{epnp}
+Vincent Lepetit, Francesc Moreno-Noguer, and Pascal Fua.
+\newblock Epnp: An accurate o (n) solution to the pnp problem.
+\newblock {\em International journal of computer vision}, 81(2):155--166, 2009.
+
+\bibitem{orb}
+R.~Mur-Artal, J.~M.~M. Montiel, and J.~D. Tardós.
+\newblock Orb-slam: A versatile and accurate monocular slam system.
+\newblock {\em IEEE Transactions on Robotics}, 31(5):1147--1163, Oct 2015.
+
+\bibitem{MurArtal}
+Raúl Mur~Artal, José~María Martínez~Montiel, and Juan~Domingo
+  Tardos~Solano.
+\newblock {ORB-SLAM: A Versatile and Accurate Monocular SLAM System}.
+\newblock 2015.
+
+\bibitem{dtam}
+R.~A. Newcombe, S.~J. Lovegrove, and A.~J. Davison.
+\newblock Dtam: Dense tracking and mapping in real-time.
+\newblock In {\em 2011 International Conference on Computer Vision}, pages
+  2320--2327, Nov 2011.
+
+\bibitem{dynamicfusion}
+Richard~A Newcombe, Dieter Fox, and Steven~M Seitz.
+\newblock Dynamicfusion: Reconstruction and tracking of non-rigid scenes in
+  real-time.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 343--352, 2015.
+
+\bibitem{perdices}
+Eduardo Perdices~García and José~María Cañas~Plaza.
+\newblock Autolocalización visual en la robocup basada en detección de
+  porterías 3d.
+\newblock In {\em Proyecto final de carrera}. URJC, 2009.
+
+\bibitem{slam++}
+Renato~F. Salas-Moreno, Richard~A. Newcombe, Hauke Strasdat, Paul~H.J. Kelly,
+  and Andrew~J. Davison.
+\newblock Slam++: Simultaneous localisation and mapping at the level of
+  objects.
+\newblock In {\em The IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, June 2013.
+
+\bibitem{visualOdometry}
+Davide Scaramuzza and Friedrich Fraundorfer.
+\newblock Visual odometry [tutorial].
+\newblock {\em Robotics \& Automation Magazine, IEEE}, 18(4):80--92, 2011.
+
+\bibitem{Siegwart}
+Roland Siegwart and Illah~R. Nourbakhsh.
+\newblock {\em Introduction to Autonomous Mobile Robots}.
+\newblock Bradford Company, Scituate, MA, USA, 2004.
+
+\bibitem{smith}
+M.~Smith, I.~Baldwin, W.~Churchill, R.~Paul, and P.~Newman.
+\newblock {The new college vision and laser data set}.
+\newblock {\em The International Journal of Robotics Research}, 28(5):595--599,
+  May 2009.
+
+\bibitem{whyFilter}
+Hauke Strasdat, J.~M.~M. Montiel, and Andrew~J. Davison.
+\newblock Real-time monocular slam: Why filter?, 2012.
+
+\bibitem{tum}
+Jürgen Sturm.
+\newblock Direct methods for visual slam.
+\newblock {\em Autonomous Navigation for flying robots}.
+
+\bibitem{benchmarkTUM}
+J{\"u}rgen Sturm, Nikolas Engelhard, Felix Endres, Wolfram Burgard, and Daniel
+  Cremers.
+\newblock A benchmark for the evaluation of rgb-d slam systems.
+\newblock In {\em Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ
+  International Conference on}, pages 573--580. IEEE, 2012.
+
+\bibitem{Thrun}
+Sebastian Thrun, Wolfram Burgard, and Dieter Fox.
+\newblock {\em Probabilistic Robotics (Intelligent Robotics and Autonomous
+  Agents)}.
+\newblock The MIT Press, 2005.
+
+\bibitem{weiss}
+Stephan Weiss, Markus~W Achtelik, Simon Lynen, Michael~C Achtelik, Laurent
+  Kneip, Margarita Chli, and Roland Siegwart.
+\newblock Monocular vision for long-term micro aerial vehicle state estimation:
+  A compendium.
+\newblock {\em Journal of Field Robotics}, 30(5):803--831, 2013.
+
+\end{thebibliography}
